@@ -1,0 +1,160 @@
+{
+  "Dashboard": "Dashboard1",
+  "DashboardData": {
+    "Companies": "Companies1",
+    "Open_Tickets": "Open Tickets1",
+    "Closed_Tickets": "Closed Tickets1",
+    "Solved_Tickets_Two_weeks_Ago": "Solved Tickets Two weeks Ago1",
+    "Average_Time": "Average Time to Close Ticket last month1",
+    "Waiting_Tickets": "Waiting Tickets1",
+    "Tickets_without_Tech": "Tickets without Tech1"
+  },
+  "Company": {
+    "Title": "Company1",
+    "Add_Company": "Add Company1",
+    "View_Company": "View Company1",
+    "Edit_Company": "Edit Company1",
+    "Placeholder": {
+      "Search": "Search1..",
+      "Company_Name": "Company Name1",
+      "Domain_Name": "Domain Name1",
+      "Telephone_No": "Telephone No.1",
+      "Domain_Expire_Date": "Domain Expire Date1"
+    },
+    "Error": {
+      "Company_Name": "Company Name is required.1",
+      "Domain_Name": "Domain Name is required.1",
+      "Telephone_No": "Telephone No. is required.1",
+      "Domain_Expire_Date": "Domain Expire Date is required.1",
+      "Valid_Telephone_No": "Valid Telephone No. is required.1"
+    }
+  },
+  "User": {
+    "Title": "Users1",
+    "Add_User": "Add User1",
+    "View_User": "View Users1",
+    "Edit_User": "Edit User1",
+    "User_Permissions": "User Permissions1",
+    "Permission": "Permission",
+    "Create_User": "Create User1",
+    "Create_Company": "Create Company1",
+    "Create_Ticket": "Create Ticket1",
+    "Assign_Ticket": "Assign Ticket1",
+    "Placeholder": {
+      "Search": "Search..1",
+      "First_Name": "First Name1",
+      "Last_Name": "Last Name1",
+      "User_Name": "User Name1",
+      "Role_Name": "User Role1",
+      "Email": "Email1",
+      "Password": "Password1",
+      "User_Role": "User Role1",
+      "Company": "Company1",
+      "Extension_No": "Extension No.1",
+      "Telephone_No": "Telephone No.1",
+      "User_Active": "Is Active.1",
+      "Select_User_Role": "Select User Role1",
+      "Select_Company": "Select Company1",
+      "Select_Date": "Select Date1"
+    },
+    "Error": {
+      "First_Name": "First Name is required.1",
+      "Last_Name": "Last Name is required.1",
+      "User_Name": "User Name is required.1",
+      "Email": "Email is required.1",
+      "Password": "Password is required.1",
+      "User_Role": "User Role is required.1",
+      "Company": "Company is required.1",
+      "Extension_No": "Extension No. is required.1",
+      "Telephone_No": "Telephone No. is required.1",
+      "Valid_Email": "Valid Email is required.1",
+      "Valid_Password": "Valid Password is required.1",
+      "Valid_Extension_No": "Valid Extension No. is required.1",
+      "Valid_Telephone_No": "Valid Telephone No. is required.1"
+    }
+  },
+  "Ticket": {
+    "Title": "Ticket1",
+    "Comments":"Comments1",
+    "TicketDetails":"Ticket Details1",
+    "AddComment": "Add Comment1",
+    "Grid": "Grid View1",
+    "Card": "Card View1",
+    "Add_Ticket": "Add Ticket1",
+    "View_Ticket": "View Tickets1",
+    "Edit_Ticket": "Edit Ticket1",
+    "SendCommentOnMail": "Send Comment on Mail1",
+    "Placeholder": {
+      "ChangeStatus": "Change Status1",
+      "Search": "Search..1",
+      "TicketTitle": "Title1",
+      "TicketComment": "Comment1",
+      "TicketDesc": "Description1",
+      "AssignedTo": "Assigned To1",
+      "AssignedBy": "Assigned By1",
+      "CreatedOn": "Created On1",
+      "TicketStatusId": "Status1",
+      "TicketPriority": "Priority1",
+      "Select_AssignedTo": "Select Assigned To1",
+      "Select_TicketStatus": "Select Ticket Status1",
+      "Select_TicketPriority" : "Select Priority1",
+      "ShowUnAssignedTickets" : "Show Unassigned Tickets1",
+      "ShowClosedTickets" : "Show Closed Tickets1"
+    },
+    "Error": {
+      "Ticketcomment": "Comment is required.1",
+      "TicketTitle": "Ticket Title is required.1",
+      "TicketDesc": "Ticket Description is required.1",
+      "AssignedTo": "Assigned To is required.1",
+      "TicketStatusId": "Ticket Status is required.1",
+      "TicketPriority" : "Priority is required1"
+    }
+  },
+  "Reports": {
+    "Title": "Reports1"
+  },
+  "GlobalSettings": {
+    "GlobalSettings": "Global Settings1",
+    "SMTPTitle": "SMTP Settings1",
+    "EmailTemplate":"Email Template1",
+    "EmailTemplatePlaceholder": {
+      "EmailTemplateTitle": "Title1",
+      "EmailTemplateType": "Type1",
+      "EmailTemplateLang": "Language1",
+      "EmailTemplate":"Email Template1",
+      "ErrorEmailTemplateTitle":"Title is required.1",
+      "ErrorEmailTemplateType": "Type is required.1",
+      "ErrorEmailTemplateLang":"Language is required.1",
+      "ErrorEmailTemplate":"Email Template is required.1"
+    },
+    "AddEmailTemplate": "Add Email Template1",
+    "EditEmailTemplate":"Edit Email Template1",
+    "NewUserRegistrationTitle": "Global Settings1",
+    "TicketStatusChangedTitle": "Global Settings1",
+    "TicketCommentedTitle": "Global Settings1",
+    "SMTPHost": "Host1",
+    "SMTPPort": "Port1",
+    "SMTPEncryption": "Encryption1",
+    "SelectEncryption": "Select Encryption1",
+    "SMTPUserName": "UserName1",
+    "SMTPPassword": "Password1",
+    "Email_Template": "Email Templates1",
+    "Error": {
+      "Host": "Host is required.1",
+      "Port": "Port is required.1",
+      "Encryption": "Encryption is required.1",
+      "Username": "User Name is required.1",
+      "Password": "Password is required.1"
+    }
+  },
+  "Button": {
+    "Save": "Save1",
+    "Update": "Update1",
+    "Cancel": "Cancel1",
+    "Ok": "Ok1",
+    "Action": "Action1"
+  },
+  "Login": "Login1",
+  "Register": "Register1",
+  "User Profile": "User Profile1"
+}
